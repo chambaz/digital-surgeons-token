@@ -1,7 +1,7 @@
 {
   "name": "digital-surgeons-token",
   "version": "1.0.0",
-  "description": "",
+  "description": "Smart contracts for the Digital Surgeons Token (DST). 100,000 in circulation.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
